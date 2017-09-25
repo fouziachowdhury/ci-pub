@@ -1,0 +1,1 @@
+<footer class="footer text-center"> &copy; Publyfe Admin </footer>
